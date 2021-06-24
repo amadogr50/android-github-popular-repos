@@ -1,0 +1,2 @@
+rootProject.name = "Android Github Popular Repos"
+include ':app'
